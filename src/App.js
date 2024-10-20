@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './styles/App.css';
 import MainHeader from './components/MainHeader';
 import Navbar from './components/Navbar';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './components/Login';
 import Placements from './pages/Placements';
 import HQ from './pages/HQ';
