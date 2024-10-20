@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ren-student-placements/static/css/main.b070db35.css",
+    "main.js": "/ren-student-placements/static/js/main.d6c1ca09.js",
+    "static/media/RCBadge.png": "/ren-student-placements/static/media/RCBadge.2755c5327cd70ba48bb5.png",
+    "index.html": "/ren-student-placements/index.html",
+    "main.b070db35.css.map": "/ren-student-placements/static/css/main.b070db35.css.map",
+    "main.d6c1ca09.js.map": "/ren-student-placements/static/js/main.d6c1ca09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b070db35.css",
+    "static/js/main.d6c1ca09.js"
+  ]
+}
