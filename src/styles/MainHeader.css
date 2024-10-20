@@ -1,0 +1,46 @@
+.app-header {
+    background-color: rgba(22, 22, 26, 0.98);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1002;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    height: 120px;
+    width: fit-content;
+    filter: brightness(0) invert(1);
+    padding-left: 0px;
+}
+
+.title-container {
+    background-color: #ffffff;
+    color: rgba(22, 22, 26, 0.98);
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.app-header h1 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 300;
+    padding-right: 25px;
+    color: rgba(7, 7, 7, 0.98);
+    align-self: center;
+    padding-left: 20px;
+}
